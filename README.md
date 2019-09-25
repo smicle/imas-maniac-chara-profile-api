@@ -1,0 +1,1 @@
+# imas-maniac-chara-profile-api
